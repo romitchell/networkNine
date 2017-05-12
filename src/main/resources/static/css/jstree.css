@@ -1,0 +1,7 @@
+.jstree-leaf > .jstree-anchor > .jstree-themeicon {
+     background: url("../images/file.gif") no-repeat center !important; }
+
+.jstree-closed > .jstree-anchor > .jstree-themeicon {
+    background: url("../images/folder.png") no-repeat center !important; }
+.jstree-open > .jstree-anchor > .jstree-themeicon {
+    background: url("../images/folder.png") no-repeat center !important; }
